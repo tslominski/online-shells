@@ -23,3 +23,7 @@ http://kotlin-demo.jetbrains.com/
 Ceylon:
 
 http://try.ceylon-lang.org/
+
+GO:
+
+http://play.golang.org/
